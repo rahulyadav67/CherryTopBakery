@@ -13,6 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 //ugdwy
+//gadudiuwqegwidf7fywegf97 wqir
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
